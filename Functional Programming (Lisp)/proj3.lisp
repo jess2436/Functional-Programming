@@ -1,7 +1,5 @@
 #| 
 File: proj3.lisp
-Authors: Jessica Chen & Shadiya Akhter
-CSC 173 | George Ferguson | Project 3
 Last modified: 10/21/24
 |#
 
